@@ -74,6 +74,23 @@ I enjoy creating **developer tools, AI-driven platforms, and full-stack applicat
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
 ![Responsive UI](https://img.shields.io/badge/Responsive_UI-3B82F6?style=for-the-badge)
 
+### AI / Generative AI
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![LLM](https://img.shields.io/badge/Large_Language_Models-000000?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge)
+![AI APIs](https://img.shields.io/badge/AI_API_Integration-3B82F6?style=for-the-badge)
+![Natural Language Processing](https://img.shields.io/badge/NLP-22C55E?style=for-the-badge)
+
+### Agentic AI / AI Automation
+
+![AI Agents](https://img.shields.io/badge/AI_Agents-6C63FF?style=for-the-badge)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-000000?style=for-the-badge)
+![AI Automation](https://img.shields.io/badge/AI_Automation-16A34A?style=for-the-badge)
+![Autonomous Workflows](https://img.shields.io/badge/Autonomous_Workflows-0EA5E9?style=for-the-badge)
+![AI Reasoning](https://img.shields.io/badge/AI_Reasoning-F97316?style=for-the-badge)
+
+
 </div>
 
 ---
@@ -166,7 +183,7 @@ These applications enable users to interact with systems using **natural languag
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/deepakdhanoliya/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ddhakad910@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](ddhakad910@gmail.com)
 
 </div>
 
