@@ -78,7 +78,6 @@ React • Next.js • TypeScript • SQL • AI APIs
 
 # 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
 
 <p align="center">
 
