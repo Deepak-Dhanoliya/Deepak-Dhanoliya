@@ -127,11 +127,7 @@ These systems allow users to interact with software using **natural language, au
 
 # 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Deepak-Dhanoliya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-Dhanoliya&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepak-Dhanoliya&theme=tokyonight" />
 
 </div>
 
@@ -143,7 +139,7 @@ These systems allow users to interact with software using **natural language, au
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 [![Deepak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepak-Dhanoliya&theme=tokyo-night&hide_border=true&bg_color=1a1b27)](https://github.com/Deepak-Dhanoliya)
 
