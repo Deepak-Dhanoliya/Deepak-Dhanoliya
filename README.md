@@ -14,7 +14,7 @@
 
 ```javascript
 const deepak = {
-    location: "India 🇮🇳",
+    location: "Indore, India",
     role: "Full Stack Developer",
     specialization: [
         "React & Next.js Applications",
