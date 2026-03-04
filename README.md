@@ -127,13 +127,9 @@ These systems allow users to interact with software using **natural language, au
 
 # 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepak-Dhanoliya&theme=tokyonight" />
-
-</div>
-
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deepak-Dhanoliya\&theme=tokyonight\&hide_border=true\&background=1a1b27)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepak-Dhanoliya&theme=tokyonight)
 
 </div>
 
