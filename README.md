@@ -1,103 +1,149 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=200&section=header&text=Deepak%20Dhanoliya&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Frontend+Specialist;React+%7C+Next.js+%7C+TypeScript;AI+Powered+Web+Applications" />
-</p>
+# 👋 Hi, I'm Deepak Dhanoliya
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Deepak-Dhanoliya&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&size=28\&pause=1000\&color=3B82F6\&center=true\&vCenter=true\&width=650\&lines=Full+Stack+Developer;Frontend+Specialist;React+%7C+Next.js+%7C+TypeScript;Building+AI+Powered+Applications)](https://git.io/typing-svg)
 
----
+[![GitHub followers](https://img.shields.io/github/followers/Deepak-Dhanoliya?label=Follow\&style=social)](https://github.com/Deepak-Dhanoliya)
+[![Profile Views](https://komarev.com/ghpvc/?username=Deepak-Dhanoliya\&color=3B82F6\&style=flat-square)](https://github.com/Deepak-Dhanoliya)
 
-# Hi 👋 I'm Deepak Dhanoliya
-
-💻 **Full Stack Developer | Frontend Specialist | AI-Powered Applications**
-
-I build modern, scalable **web and mobile applications** using technologies like **React, Next.js, TypeScript, and AI-powered backend systems**.
-
-My focus is on creating **high-performance user interfaces, scalable backend services, and intelligent developer tools**.
+</div>
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 About Me
 
-## Frontend
+```javascript
+const deepak = {
+    location: "India 🇮🇳",
+    role: "Full Stack Developer",
+    specialization: [
+        "React & Next.js Applications",
+        "AI Integrated Developer Tools",
+        "FastAPI Backend Development",
+        "Modern UI Development"
+    ],
+    techFocus: [
+        "Scalable Web Applications",
+        "AI-powered Platforms",
+        "Database Tools",
+        "Developer Productivity Tools"
+    ],
+    currentGoal: "Building intelligent full stack products using AI"
+};
+```
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript"/>
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-</p>
+I am a **Full Stack Developer with strong frontend expertise** focused on building **modern, scalable, and AI-powered applications**.
 
-## Backend
+My primary strength lies in creating **high-performance user interfaces using React, Next.js, and TypeScript**, combined with **robust backend systems using Python and FastAPI**.
 
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
-</p>
-
-## Databases
-
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database"/>
-</p>
+I enjoy developing **developer tools, AI-powered platforms, and full-stack applications** that simplify complex workflows and improve productivity.
 
 ---
 
-# 🧠 Areas of Interest
+# 🛠️ Tech Stack
 
-• AI Powered Applications
-• Full Stack Development
-• Developer Tools
-• Scalable Web Architecture
-• Database Management Tools
-• Performance Optimization
+<div align="center">
+
+### Frontend Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+### Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=database\&logoColor=white)
+
+### Tools & Development
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+![Responsive UI](https://img.shields.io/badge/Responsive_UI-3B82F6?style=for-the-badge)
+
+</div>
 
 ---
 
-# 📌 Featured Projects
+# 📂 Featured Projects
 
-### 🔹 DBX Studio
+<div align="center">
 
-AI-powered database management tool that allows users to interact with databases using **AI-generated queries, visualizations, and automation**.
+| Project                    | Description                                                                                                                            | Tech Stack                      |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| 🚀 **DBX Studio**          | AI-powered database management platform that allows users to interact with databases using AI-generated SQL queries and visualizations | React, Next.js, TypeScript, SQL |
 
-Tech Stack
-React • Next.js • TypeScript • SQL • AI APIs
+</div>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
+<div align="center">
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Deepak-Dhanoliya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Deepak-Dhanoliya&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-Dhanoliya&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-Dhanoliya&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</div>
 
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak-Dhanoliya&theme=tokyonight"/>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deepak-Dhanoliya\&theme=tokyonight\&hide_border=true\&background=1a1b27)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+# 💡 Development Focus
+
+✔ Building **AI-enabled developer tools**
+✔ Creating **modern React & Next.js applications**
+✔ Developing **scalable API architectures**
+✔ Designing **clean, responsive user interfaces**
+
+---
+
+# 🤝 Soft Skills
+
+<div align="center">
+
+| Skill                  | Description                                       |
+| ---------------------- | ------------------------------------------------- |
+| 🤝 Collaboration       | Effective team collaboration on complex projects  |
+| 🧩 Problem Solving     | Strong analytical and debugging skills            |
+| 📈 Continuous Learning | Actively learning modern development technologies |
+| 💬 Communication       | Ability to explain technical ideas clearly        |
+
+</div>
 
 ---
 
 # 📫 Connect With Me
 
-LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/deepakdhanoliya/)
-Email: [your-email@example.com](ddhakad910@gmail.com)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Deepak-Dhanoliya)
+
+</div>
 
 ---
 
-⭐ **Thanks for visiting my GitHub profile!**
+<div align="center">
+
+### 💡 *Building modern AI-powered applications and developer tools.*
+
+</div>
