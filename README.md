@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1a1b27&height=200&section=header&text=Deepak%20Dhanoliya&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 <div align="center">
 
 # 👋 Hi, I'm Deepak Dhanoliya
@@ -32,11 +33,11 @@ const deepak = {
 };
 ```
 
-I am a **Full Stack Developer with strong frontend expertise** focused on building **modern, scalable, AI-powered applications**.
+I am a **Full Stack Developer with strong frontend expertise**, focused on building **modern, scalable, AI-powered applications**.
 
-My work combines **React, Next.js, and TypeScript for frontend development** with **Python and FastAPI for backend systems**.
+My work combines **React, Next.js, and TypeScript for frontend development** with **Python and FastAPI for backend systems**, enabling the development of efficient full-stack solutions.
 
-I enjoy creating **developer tools, AI-driven platforms, and full-stack applications** that simplify complex workflows.
+I enjoy building **developer tools, AI-driven platforms, and intelligent web applications** that simplify complex workflows and improve productivity.
 
 ---
 
@@ -79,7 +80,7 @@ I enjoy creating **developer tools, AI-driven platforms, and full-stack applicat
 # 🤖 AI & Intelligent Systems
 
 I build **AI-powered applications and developer tools** using **Generative AI and Agentic AI technologies**.
-These systems allow users to interact with software using **natural language, automation, and intelligent workflows**.
+These systems enable users to interact with software through **natural language, automation, and intelligent workflows**.
 
 ### Generative AI
 
@@ -117,9 +118,9 @@ These systems allow users to interact with software using **natural language, au
 
 <div align="center">
 
-| Project           | Description                                                                                                         | Tech Stack                      |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| 🚀 **DBX Studio** | AI-powered database management platform enabling natural language database interaction and automated SQL generation | React, Next.js, TypeScript, SQL |
+| Project           | Description                                                                                                                   | Tech Stack                      |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| 🚀 **DBX Studio** | AI-powered database management platform that enables natural language interaction with databases and automatic SQL generation | React, Next.js, TypeScript, SQL |
 
 </div>
 
@@ -129,13 +130,13 @@ These systems allow users to interact with software using **natural language, au
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deepak-Dhanoliya&theme=tokyonight&hide_border=true&background=1a1b27)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deepak-Dhanoliya\&theme=tokyonight\&hide_border=true\&background=1a1b27)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Deepak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepak-Dhanoliya&theme=tokyo-night&hide_border=true&bg_color=1a1b27)](https://github.com/Deepak-Dhanoliya)
+[![Deepak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepak-Dhanoliya\&theme=tokyo-night\&hide_border=true\&bg_color=1a1b27)](https://github.com/Deepak-Dhanoliya)
 
 </div>
 
@@ -170,5 +171,7 @@ These systems allow users to interact with software using **natural language, au
 <div align="center">
 
 ### 💡 *Building modern AI-powered applications and developer tools.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:3B82F6&height=120&section=footer"/>
 
 </div>
