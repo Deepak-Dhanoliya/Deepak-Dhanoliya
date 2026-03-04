@@ -19,25 +19,25 @@ const deepak = {
     role: "Full Stack Developer",
     specialization: [
         "React & Next.js Applications",
-        "AI Integrated Developer Tools",
+        "AI Powered Platforms",
         "FastAPI Backend Development",
-        "Modern UI Development"
+        "Developer Tools"
     ],
-    techFocus: [
-        "Scalable Web Applications",
-        "AI-powered Platforms",
-        "Database Tools",
-        "Developer Productivity Tools"
+    focus: [
+        "AI Powered Applications",
+        "Full Stack Web Development",
+        "Developer Productivity Tools",
+        "Modern Web Architecture"
     ],
-    currentGoal: "Building intelligent full stack products using AI"
+    goal: "Building intelligent applications using Generative AI and Agentic AI"
 };
 ```
 
-I am a **Full Stack Developer with strong frontend expertise** focused on building **modern, scalable, and AI-powered applications**.
+I am a **Full Stack Developer with strong frontend expertise** focused on building **modern, scalable, AI-powered applications**.
 
-My primary strength lies in creating **high-performance user interfaces using React, Next.js, and TypeScript**, combined with **robust backend systems using Python and FastAPI**.
+My work combines **React, Next.js, and TypeScript for frontend development** with **Python, FastAPI, and modern APIs for backend systems**.
 
-I enjoy developing **developer tools, AI-powered platforms, and full-stack applications** that simplify complex workflows and improve productivity.
+I enjoy creating **developer tools, AI-driven platforms, and full-stack applications** that simplify complex workflows.
 
 ---
 
@@ -78,13 +78,54 @@ I enjoy developing **developer tools, AI-powered platforms, and full-stack appli
 
 ---
 
+# 🤖 AI & Intelligent Systems
+
+I build **AI-powered applications and developer tools** using **Generative AI and Agentic AI technologies**.
+
+These applications enable users to interact with systems using **natural language, intelligent automation, and AI-driven workflows**.
+
+---
+
+### Generative AI
+
+![LLM](https://img.shields.io/badge/Large_Language_Models-000000?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge)
+![AI APIs](https://img.shields.io/badge/AI_APIs-3B82F6?style=for-the-badge)
+
+**Skills**
+
+* LLM API integration
+* Prompt engineering
+* Natural language → SQL / code generation
+* AI-assisted data analysis
+* Building AI-powered developer tools
+
+---
+
+### Agentic AI
+
+![AI Agents](https://img.shields.io/badge/AI_Agents-6C63FF?style=for-the-badge)
+![Automation](https://img.shields.io/badge/AI_Automation-22C55E?style=for-the-badge)
+![Tool Integration](https://img.shields.io/badge/Tool_Calling-000000?style=for-the-badge)
+
+**Skills**
+
+* Autonomous AI workflows
+* Tool-calling AI agents
+* Multi-step reasoning systems
+* AI-driven automation pipelines
+* Integrating AI agents with APIs and databases
+
+---
+
 # 📂 Featured Projects
 
 <div align="center">
 
-| Project                    | Description                                                                                                                            | Tech Stack                      |
-| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| 🚀 **DBX Studio**          | AI-powered database management platform that allows users to interact with databases using AI-generated SQL queries and visualizations | React, Next.js, TypeScript, SQL |
+| Project                    | Description                                                                                                         | Tech Stack                      |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| 🚀 **DBX Studio**          | AI-powered database management platform enabling natural language database interaction and automated SQL generation | React, Next.js, TypeScript, SQL |
+
 
 </div>
 
@@ -112,23 +153,8 @@ I enjoy developing **developer tools, AI-powered platforms, and full-stack appli
 
 ✔ Building **AI-enabled developer tools**
 ✔ Creating **modern React & Next.js applications**
-✔ Developing **scalable API architectures**
+✔ Developing **scalable backend APIs**
 ✔ Designing **clean, responsive user interfaces**
-
----
-
-# 🤝 Soft Skills
-
-<div align="center">
-
-| Skill                  | Description                                       |
-| ---------------------- | ------------------------------------------------- |
-| 🤝 Collaboration       | Effective team collaboration on complex projects  |
-| 🧩 Problem Solving     | Strong analytical and debugging skills            |
-| 📈 Continuous Learning | Actively learning modern development technologies |
-| 💬 Communication       | Ability to explain technical ideas clearly        |
-
-</div>
 
 ---
 
@@ -137,11 +163,12 @@ I enjoy developing **developer tools, AI-powered platforms, and full-stack appli
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Deepak-Dhanoliya)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/deepakdhanoliya/)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ddhakad910@gmail.com)
 
 </div>
->
 
 ---
 
