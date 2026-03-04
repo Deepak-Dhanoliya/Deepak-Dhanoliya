@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&size=28\&pause=1000\&color=3B82F6\&center=true\&vCenter=true\&width=650\&lines=Full+Stack+Developer;Frontend+Specialist;React+%7C+Next.js+%7C+TypeScript;Building+AI+Powered+Applications)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/Deepak-Dhanoliya?label=Follow\&style=social)](https://github.com/Deepak-Dhanoliya)
 [![Profile Views](https://komarev.com/ghpvc/?username=Deepak-Dhanoliya\&color=3B82F6\&style=flat-square)](https://github.com/Deepak-Dhanoliya)
 
 </div>
@@ -85,7 +84,6 @@ These systems allow users to interact with software using **natural language, au
 ### Generative AI
 
 ![LLM](https://img.shields.io/badge/Large_Language_Models-000000?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge)
 ![AI APIs](https://img.shields.io/badge/AI_API_Integration-3B82F6?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-22C55E?style=for-the-badge)
 
