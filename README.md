@@ -129,15 +129,23 @@ These systems allow users to interact with software using **natural language, au
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepak-Dhanoliya&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Deepak-Dhanoliya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-Dhanoliya&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="170"/>
 
 </div>
 
----
+<div align="center">
 
-# 📈 Contribution Activity
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deepak-Dhanoliya&theme=tokyonight&hide_border=true&background=1a1b27)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
 
 [![Deepak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepak-Dhanoliya&theme=tokyo-night&hide_border=true&bg_color=1a1b27)](https://github.com/Deepak-Dhanoliya)
+
+</div>
 
 ---
 
