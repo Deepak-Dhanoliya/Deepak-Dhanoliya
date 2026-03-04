@@ -144,8 +144,11 @@ These systems allow users to interact with software using **natural language, au
 # 💡 Development Focus
 
 ✔ Building **AI-enabled developer tools**
+
 ✔ Creating **modern React & Next.js applications**
+
 ✔ Developing **scalable backend APIs**
+
 ✔ Designing **clean, responsive user interfaces**
 
 ---
