@@ -91,9 +91,8 @@ React • Next.js • TypeScript • SQL • AI APIs
 
 # 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/
-Portfolio: https://
-Email: [your-email@example.com](mailto:your-email@example.com)
+LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/deepakdhanoliya/)
+Email: [your-email@example.com](ddhakad910@gmail.com)
 
 ---
 
