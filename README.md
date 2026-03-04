@@ -39,8 +39,6 @@ I enjoy building **developer tools, AI-driven platforms, and intelligent web app
 
 ---
 
----
-
 # 💼 Work Experience
 
 ### 🏢 Frontend Developer — HUB9 (San Francisco, CA)
@@ -63,6 +61,7 @@ I enjoy building **developer tools, AI-driven platforms, and intelligent web app
 * Implemented **modern UI components and responsive layouts** for production web applications.
 * Collaborated with senior developers to improve **UI performance and usability**.
 
+---
 
 # 🛠️ Tech Stack
 
