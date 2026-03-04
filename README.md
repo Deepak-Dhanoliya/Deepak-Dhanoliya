@@ -14,7 +14,7 @@
 ```javascript
 const deepak = {
     location: "Indore, India",
-    role: "Full Stack Developer",
+    currentRole: "Frontend Developer @ HUB9 (San Francisco, CA)",
     specialization: [
         "React & Next.js Applications",
         "AI Powered Platforms",
@@ -38,6 +38,31 @@ My work combines **React, Next.js, and TypeScript for frontend development** wit
 I enjoy building **developer tools, AI-driven platforms, and intelligent web applications** that simplify complex workflows and improve productivity.
 
 ---
+
+---
+
+# 💼 Work Experience
+
+### 🏢 Frontend Developer — HUB9 (San Francisco, CA)
+
+**Jan 2026 – Present**
+
+* Working as a **Frontend Developer** building modern web applications using **React, Next.js, and TypeScript**.
+* Developing **scalable UI architectures and interactive dashboards** for AI-powered developer tools.
+* Collaborating with backend teams to integrate **FastAPI APIs and database services**.
+* Focused on delivering **high-performance, responsive, and maintainable frontend systems**.
+
+---
+
+### 🏢 Frontend Developer Intern — Peacock India Private Limited
+
+**Jul 2025 – Dec 2025**
+
+* Completed a **6-month internship** focused on frontend development.
+* Built responsive web interfaces using **React, JavaScript, HTML, and CSS**.
+* Implemented **modern UI components and responsive layouts** for production web applications.
+* Collaborated with senior developers to improve **UI performance and usability**.
+
 
 # 🛠️ Tech Stack
 
