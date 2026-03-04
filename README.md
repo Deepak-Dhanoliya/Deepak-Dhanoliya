@@ -129,12 +129,6 @@ These systems allow users to interact with software using **natural language, au
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-Dhanoliya&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="170"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deepak-Dhanoliya&theme=tokyonight&hide_border=true&background=1a1b27)](https://git.io/streak-stats)
 
 </div>
