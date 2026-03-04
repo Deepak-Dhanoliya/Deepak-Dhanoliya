@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1a1b27&height=200&section=header&text=%F0%9F%91%8B%20Hi,%20I'm%20Deepak%20Dhanoliya&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 <div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&size=28\&pause=1000\&color=3B82F6\&center=true\&vCenter=true\&width=650\&lines=Full+Stack+Developer;Frontend+Specialist;React+%7C+Next.js+%7C+TypeScript;Building+AI+Powered+Applications)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Deepak-Dhanoliya\&color=3B82F6\&style=flat-square)](https://github.com/Deepak-Dhanoliya)
