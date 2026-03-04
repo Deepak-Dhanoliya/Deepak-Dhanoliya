@@ -128,6 +128,7 @@ These systems allow users to interact with software using **natural language, au
 # 📊 GitHub Stats
 
 <div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepak-Dhanoliya&theme=github_dark" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=Deepak-Dhanoliya&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
