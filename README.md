@@ -143,6 +143,12 @@ These systems allow users to interact with software using **natural language, au
 
 ---
 
+## 📈 Contribution Activity
+
+[![Deepak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepak-Dhanoliya&theme=tokyo-night&hide_border=true&bg_color=1a1b27)](https://github.com/Deepak-Dhanoliya)
+
+---
+
 # 💡 Development Focus
 
 ✔ Building **AI-enabled developer tools**
